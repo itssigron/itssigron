@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssigron" alt="itssigron" /></a> </p>
 
-- 🔭 I’m currently working on [Magshimim final project](https://github.com/itssigron/Magshimim-GifMaker)
+- 🔭 I’m currently working on [Magshimim's final project](https://github.com/itssigron/Magshimim-GifMaker)
 
 - 🌱 I’m currently learning **php, c#**
 
