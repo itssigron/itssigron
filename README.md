@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me: <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20" valign="bottom"/>&nbsp; **itssigron@gmail.com**</a>, <a href="https://discord.com/users/382572416708116482" target="_blank" rel="noreferrer"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="discord" width="20" height="20" valign="bottom"/>&nbsp; **SigroN#9999**</a>
+- 📫 How to reach me: <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20" valign="bottom"/><a href="#" target="_blank" rel="noreferrer"> **itssigron@gmail.com**</a>, <img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="discord" width="20" height="20" valign="bottom"/><a href="https://discord.com/users/382572416708116482" target="_blank" rel="noreferrer"> **SigroN#9999**</a>
 
 <p align="left">
 </p>
