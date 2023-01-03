@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssigron" alt="itssigron" /></a> </p>
 
-- 🔭 I’m currently working on [Magshimim's final project](https://github.com/itssigron/Magshimim-GifMaker)
+- 🔭 I’m currently working on [Magshimim's chess project](https://github.com/itssigron/Chess)
 
-- 🌱 I’m currently learning **php, c#**
-
-- 👯 I’m looking to collaborate on [sigidb](https://github.com/itssigron/sigidb)
+- 🌱 I’m currently learning **C++, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itssigron](https://github.com/itssigron)
 
